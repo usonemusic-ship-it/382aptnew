@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "382aptnew",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a2924e02-3675-4b01-91ac-fd6af8490225",
+      "database_name": "382apt"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
